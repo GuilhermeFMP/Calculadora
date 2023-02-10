@@ -4,6 +4,16 @@
 Uma simples calculadora que fiz para treinar meus conhecimentos aprendidos com React.
 
 
+## Instalação
+
+Instale my-project com npm
+
+```bash
+  npm install
+  npm start
+```
+
+
 ## Funcionalidades
 
 - Operações Básicas
